@@ -40,7 +40,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="b5QyLPfclyKVS4FlYi80-10" value="Leap" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="110" y="280" width="120" height="40" as="geometry" />
+          <mxGeometry x="120" y="280" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="b5QyLPfclyKVS4FlYi80-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
